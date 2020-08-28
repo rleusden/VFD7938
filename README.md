@@ -8,8 +8,6 @@ Original PCB the VFD display came with from AliExpress. You can see it's a simpe
 
 ![alt text](https://github.com/rleusden/VFD7938/blob/master/VFD7938_Org_PCB.png?raw=true)
 
-# 25-8-2020
-
 The below PCB design for the VFD7938 display is currently in production at JLCPCB, after testing of the PCB the gerber files will be made available so you can roll your own.
 
 ![alt text](https://github.com/rleusden/VFD7938/blob/master/VFD7938_PCB.png?raw=true)
