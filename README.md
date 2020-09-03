@@ -4,7 +4,7 @@ This VFD display is sold on AliExpress, with the attached pcb the display is a g
 
 ![alt text](https://github.com/rleusden/VFD7938/blob/master/VFD7938_1.png?raw=true)
 
-Original PCB the VFD display came with from AliExpress. You can see it's a simpel 5 level mono VU meter. The 72 segments of the display are divided in 5 groups and connected together.
+Original PCB the VFD display came with from AliExpress. You can see it's a simpel 5 level mono VU meter. The 74 segments of the display are divided in 5 groups and connected together.
 
 ![alt text](https://github.com/rleusden/VFD7938/blob/master/VFD7938_Org_PCB.png?raw=true)
 
