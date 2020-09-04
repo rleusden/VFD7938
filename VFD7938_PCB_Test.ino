@@ -13,6 +13,7 @@ Pin 13    SRCK
 #include <SPI.h>
 
 byte ssPin = 10;
+byte x;
 
 byte DisplayArray[] = {
  0,0,0,0,0,0,0,0,0,                  // ALL_ON
@@ -34,7 +35,7 @@ void loop(){
 
    digitalWrite (ssPin, LOW);
    for (x=0; x<9; x=x+1){
-       SPI.transfer (DisplayArray[x]);
+       SPI.transfer (DisplayArray[x+9]);
        }
    digitalWrite (ssPin, HIGH);
 
